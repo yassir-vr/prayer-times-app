@@ -15,7 +15,7 @@
 <body>
 
 <div class="container text-center mt-5">
-    <h1 class="mb-4">Prayer Times Casablanca</h1>
+    <h1 class="mb-4">Prayer Times Casablanca city</h1>
     <p id="date" class="lead"></p>
 
     <div class="clock display-4 mb-3" id="clock">00:00:00</div>
