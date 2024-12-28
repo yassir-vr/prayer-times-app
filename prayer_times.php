@@ -1,5 +1,5 @@
 <?php 
-$city = "Casablanca";
+$city = "Rabat";
 $country = "Morocco"; 
 $date = 'today';
 $apiUrl = "https://api.aladhan.com/v1/timingsByCity/$date?city=$city&country=$country";
